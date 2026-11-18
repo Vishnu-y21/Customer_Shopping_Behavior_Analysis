@@ -242,43 +242,13 @@ Open the `.pbix` file using Microsoft Power BI Desktop.
 
 Update the data source connection if required.
 
-## 9. Project Structure
-
-```text
-Customer-Shopping-Behavior-Analysis/
-│
-├── data/
-│   └── customer_shopping_behavior.csv
-│
-├── notebooks/
-│   └── customer_shopping_analysis.ipynb
-│
-├── sql/
-│   ├── postgresql_queries.sql
-│   ├── mysql_queries.sql
-│   └── sql_server_queries.sql
-│
-├── dashboard/
-│   └── customer_shopping_dashboard.pbix
-│
-├── reports/
-│   └── project_report.pdf
-│
-├── presentation/
-│   └── project_presentation.pptx
-│
-└── README.md
-```
-
-## 10. Conclusion
+## 9. Conclusion
 
 This project demonstrates an end-to-end data analytics workflow, covering data preparation, exploratory analysis, SQL querying, business intelligence, and reporting.
 
 By combining Python, SQL, and Power BI, the project transforms raw shopping data into actionable insights that can support better business decisions, customer retention strategies, and marketing optimization.
 
 ---
-
-**Author:** Your Name
 
 **Project:** Customer Shopping Behavior Analysis
 
