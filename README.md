@@ -41,8 +41,6 @@ The project follows an end-to-end data analytics workflow, starting with data lo
 | Pandas & NumPy | Data cleaning and processing |
 | Matplotlib & Seaborn | Exploratory Data Analysis |
 | PostgreSQL | SQL-based business analysis |
-| MySQL | SQL querying and analysis |
-| SQL Server (SSMS) | SQL querying and analysis |
 | Power BI | Interactive dashboard development |
 | Gamma AI | Presentation creation |
 | Jupyter Notebook | Python development and analysis |
